@@ -144,7 +144,7 @@ a:hover, a:active { color:black; text-decoration: underline; }
 
 .title,
 .subtitle { 
-	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	font-family: monospace, 'Wire One', Helvetica, Arial, sans-serif;
 	font-weight:normal;
 	font-size:7em;
 	margin-bottom:15px; 
@@ -153,7 +153,7 @@ a:hover, a:active { color:black; text-decoration: underline; }
 }
 .subtitle { 
 	line-height:.9em;
-	font-size:5.5em;
+	font-size:3.5em;
 	margin-top:0;
 	margin-bottom:40px; 
 }
