@@ -83,6 +83,7 @@ body {
 }
 .mainmenu .dropdown-menu .active { 
 	font-weight:bold;
+	font-size: 1.2em;
 }
 .mainmenu .open .dropdown-menu { 
 	top:2px;
