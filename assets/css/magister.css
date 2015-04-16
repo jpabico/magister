@@ -349,7 +349,7 @@ a:hover, a:active { color:black; text-decoration: underline; }
 .theme-invert .mainmenu .dropdown-menu a { 
 	/*color:#000;*/
 	/*most important change -  for menu*/
-	color: white;
+	/*color: white;*/
 }
 .theme-invert .mainmenu .dropdown-menu a:hover { 
 	/*background:rgba(0,0,0,.1);*/
