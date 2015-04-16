@@ -344,7 +344,8 @@ a:hover, a:active { color:black; text-decoration: underline; }
 	background: gray;
 }
 .theme-invert .navbar-toggle .icon-bar {
-  background: #333;
+  /*background: #333;*/
+  background: white;
 }
 .theme-invert .mainmenu .dropdown-menu a { 
 	/*color:#000;*/
