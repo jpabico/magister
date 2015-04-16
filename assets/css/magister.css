@@ -336,9 +336,9 @@ a:hover, a:active { color:black; text-decoration: underline; }
 	color: white;
 }
 .theme-invert .btn-link:hover, .theme-invert .btn-link:focus, .theme-invert .btn-link:active {
-	color:#000;
+	/*color:#000;*/
 	/*exp*/
-	/*color: white;*/
+	color: white;
 }
 .theme-invert .navbar-toggle {
 	/*background: rgba(0, 0, 0, 0.12);*/
