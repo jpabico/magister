@@ -20,6 +20,9 @@ body {
 	font-weight: normal;
 }
 
+.skillset {
+	list-style-type: circle;
+}
 
 /********************************************************/
 /*                    Navigation bar                    */
@@ -257,33 +260,6 @@ a:hover, a:active { color:black; text-decoration: underline; }
 	width:340px; 
 	margin:0 auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
