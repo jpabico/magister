@@ -84,7 +84,7 @@ h3 footer {
 }
 .open .navbar-toggle { 
 	top:-70px; 
-	opacity: 0;  
+	opacity: 0; 
 }
 .mainmenu .dropdown-menu {
 	top: -14em;
@@ -111,6 +111,7 @@ h3 footer {
 	opacity:1;
 }
 .mainmenu .dropdown-menu a { 
+	width:100px;
 	padding:10px 10px;
 	margin:0;
 	color:white;
