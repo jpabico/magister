@@ -28,6 +28,11 @@ h3 footer {
 	font-size: 10px;
 }
 
+.description {
+	height: 100px;
+	overflow: scroll;
+}
+
 #emailme {
 	color: yellow;
 }
